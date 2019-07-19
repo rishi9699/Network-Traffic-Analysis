@@ -1,0 +1,328 @@
+GET https://www.youtube.com/watch?v=gmRTQfLrbMY HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/generate_204 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/generate_204 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/generate_204?conn2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_watch_v2-vfliV8BZb/desktop_polymer_sel_auto_svg_watch_v2.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/scheduler-vfl0nTPXR/scheduler.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/player_ias-vfl7A4uZG/en_US/base.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/cssbin/player-vfl6V09nz/www-player-webp.css HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/cssbin/www-main-desktop-player-skeleton-webp-vflUDgkBz.css HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/cssbin/www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26feature%3Dpassive%26action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&passive=true&service=youtube&uilel=3&hl=en HTTP/1.1
+HOST: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26feature%3Dpassive%26action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&passive=true&service=youtube&uilel=3&hl=en
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET data:image/png;base64,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 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAJwCAYAAABI9AvEAAACkklEQVRIS1XHdxQIZBiFcTtCkmRHqSh7U1mpJMlK9t7Jpm2WUFnZK7PsbGWWUfYohOy9NZFVznNP5/vOff/4vfdJkOD/S8iPJCJFYicJKZIGkrEi95AiuZOCFPc6KUmRyklNivsCaViR+0mR1nmAFOmcB0mR3nmIFBmcjKTIFMjMimQhRVYnGykedrKTIofzCCkeDeRkRR4jxePOE6TI5eQmxZPOU6TIE8jLiuQjRX6nACkKOoVIUdgpQoqigWKsSHFSlHBKkqKU8zQpnnGeJUXpQBlWpCwpyjnlSfGcU4EUzzsvkOJFpyIpXgpUYkVeJkVl5xVSVHFeJUVVpxopqgdqsCI1SfGaU4sUrzu1SVHHqUuKeoH6rEgDUjR0GpGisdOEFE2dZqRoHmjBirQkRSunNSnaOG1J8YbTjhRvOu1J0SHQkRXpRIrOThdSdHW6kaK78xYp3g68w4q8S4r3nPdJ8YHTgxQ9nV6k6B3ow4r0JcWHzkek6Od8TIr+zgBSDAx8wop8SorPnEGkGOwMIcVQZxgpPg8MZ0VGkGKkM4oUo50xpBjrjCPFeGcCKSYGvmBFJpFisjOFFFOdaaSY7nxJiq8CM1iRmaSY5cwmxRxnLinmOV+TYn5gASuykBSLnMWkWOIsJcUy5xtSfBtYzoqsIMVKZxUpVjtrSPGd8z0p1jrrSLE+sIEV+YEUPzobSbHJ2UyKLc5WUmwLbGdFdpBip7OLFD85P5Nit7OHFHsDv7Ai+0ix3zlAil+dg6Q45BwmxZHAUVbkGCmOOydIcdI5RYrTzhlSnA2cY0XOk+KCc5EUl5zLpLji/EaK350/SPFn4C9W5G9SXHWukeK68w8pbjg3SXErcJsVuUOKf53/7gIPXjbYDO78kgAAAABJRU5ErkJggg== HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADGCAYAAAAT+OqFAAAAdklEQVQoz42QQQ7AIAgEF/T/D+kbq/RWAlnQyyazA4aoAB4FsBSA/bFjuF1EOL7VbrIrBuusmrt4ZZORfb6ehbWdnRHEIiITaEUKa5EJqUakRSaEYBJSCY2dEstQY7AuxahwXFrvZmWl2rh4JZ07z9dLtesfNj5q0FU3A5ObbwAAAABJRU5ErkJggg== HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/spf-vflqCgDoF/spf.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/network-vfl3EpVxj/network.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/web-animations-next-lite.min-vflluX5aW/web-animations-next-lite.min.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/custom-elements-es5-adapter-vflsrwHZH/custom-elements-es5-adapter.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/webcomponents-sd-vfl3IPyBk/webcomponents-sd.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/htmlbin/desktop_polymer_sel_auto_svg_watch_v2-vflP0_9c-.html HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=video%2Fwebm&gir=yes&clen=179690&dur=9.600&lmt=1451680946054015&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIhAJvJ4Tx1i3NQfVTp84H8QcnbFyRq6uKNMjwsiVklE9-8Ah85pZ1mIMGaIvVL_pFHcIqZ3eyxKhLKXflfOmKryQv4&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=0-65812&rn=1&rbuf=0 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=audio%2Fwebm&gir=yes&clen=185463&dur=9.641&lmt=1451680788331492&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhAPvsWFFixr2Mvq_1kAWdDzGMTNEFcmbHJw-b3jHyJAUbAiB6pfQeX0FxQKujyqD-mR_tLdpuqftTmtJBbBVGFVn21g%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=0-65825&rn=2&rbuf=0 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/id HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/player_ias-vfl7A4uZG/en_US/endscreen.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/player_ias-vfl7A4uZG/en_US/annotations_module.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/player_ias-vfl7A4uZG/en_US/remote.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/yts/jsbin/player_ias-vfl7A4uZG/en_US/miniplayer.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvtXALsrF0B0LePDmxS46JxiG66NaVyg-A5ZU9hmBkA-pSoLgrQhayL9nwdm-BXy_GTFfuMwp_QJck3FXQVXYs1EuLPA_sTujO4TUsIkipsv8xjB1Z0FNKmVyoZyBF_OI-QVbaZhg96oKf4RUzUo_fDoOha1BI1VDpNjkRYwpNRgADln_CZmrNq5arnE6TNRLhYgLwWNdDkLQqQPCUqcM5QbHDdWjfMvVOQ8Hg0QMQW6_8d3H8T4ebhVB5wCr6uRT-w6gTmiIE&sig=Cg0ArKJSzFgq7K4nclndEAE&adurl= HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/id?slf_rd=1 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/id?slf_rd=1 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=video%2Fwebm&gir=yes&clen=179690&dur=9.600&lmt=1451680946054015&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIhAJvJ4Tx1i3NQfVTp84H8QcnbFyRq6uKNMjwsiVklE9-8Ah85pZ1mIMGaIvVL_pFHcIqZ3eyxKhLKXflfOmKryQv4&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=65813-131348&rn=3&rbuf=2070 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=audio%2Fwebm&gir=yes&clen=185463&dur=9.641&lmt=1451680788331492&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhAPvsWFFixr2Mvq_1kAWdDzGMTNEFcmbHJw-b3jHyJAUbAiB6pfQeX0FxQKujyqD-mR_tLdpuqftTmtJBbBVGFVn21g%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=65826-131361&rn=4&rbuf=3412 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET chrome-extension://invalid/ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET chrome-extension://invalid/ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=video%2Fwebm&gir=yes&clen=179690&dur=9.600&lmt=1451680946054015&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIhAJvJ4Tx1i3NQfVTp84H8QcnbFyRq6uKNMjwsiVklE9-8Ah85pZ1mIMGaIvVL_pFHcIqZ3eyxKhLKXflfOmKryQv4&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=131349-179689&rn=5&rbuf=4140 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/api/stats/playback?ns=yt&el=detailpage&cpn=db66zd9t3gOUNeF3&docid=gmRTQfLrbMY&ver=2&cmt=0.007&ei=w8IkXd-_HpCM1AamyIfYDw&fmt=243&fs=0&rt=0.693&of=gN3VfdWjkSA_GX1FQtoYog&euri&lact=785&cl=256480665&mos=0&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190704&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=9.641&fexp=23735348%2C23744176%2C23751746%2C23751767%2C23761674%2C23779398%2C23788841%2C23788876%2C23793834%2C23794043%2C23804281%2C23805410%2C23806435%2C23806876%2C23808951%2C23811378%2C23812484%2C23813548%2C23815366%2C23815366%2C23816462%2C23818122%2C23818585%2C23821688%2C23822102%2C23822875%2C23822934%2C23823430%2C23823671%2C23825270%2C9405961%2C9449243%2C9466591%2C9471239&rtn=9&afmt=251 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/ptracking?html5=1&video_id=gmRTQfLrbMY&cpn=db66zd9t3gOUNeF3&ei=w8IkXd-_HpCM1AamyIfYDw&ptk=youtube_single&oid=R6gVO4AWL-aCIaJPB2mreQ&ptchn=5cu-LHzsXr6iBf2n9mswjg&pltype=content HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/an/5cu-LHzsXr6iBf2n9mswjg/featured_channel.jpg?v=53e73d30 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/player_204?rt=0.707&fs=false&volume=100&mos=0&fmt=243&afmt=251&ei=xMIkXZ2YNcujz7sPxIiNiAI&cpn=db66zd9t3gOUNeF3&v=gmRTQfLrbMY&ns=yt&html5=1&el=detailpage&ps=desktop-polymer&a-ch=UC5cu-LHzsXr6iBf2n9mswjg&xble=0&link-id=UC5cu-LHzsXr6iBf2n9mswjg&l-class=3&a-v=gmRTQfLrbMY&a-type=10&a-id=53e29ebf-0000-21da-9635-001a1140dcae&p-time=0.02&iv-event=2&event=iv&ux=1 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r1---sn-o3o-cvhl.googlevideo.com/videoplayback?expire=1562711844&ei=w8IkXd-_HpCM1AamyIfYDw&ip=103.21.125.80&id=o-AJWA_979jP_nziSr69txhVm0EUuWr0NmAAaTIVYiyZAe&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-o3o-cvhl%2Csn-h557snlz&ms=au%2Crdu&mv=m&mvi=0&pl=24&initcwndbps=1436250&mime=audio%2Fwebm&gir=yes&clen=185463&dur=9.641&lmt=1451680788331492&mt=1562690100&fvip=1&keepalive=yes&beids=9466585&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhAPvsWFFixr2Mvq_1kAWdDzGMTNEFcmbHJw-b3jHyJAUbAiB6pfQeX0FxQKujyqD-mR_tLdpuqftTmtJBbBVGFVn21g%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAPnUhzhwDcKp2rOq8Flrh-pMdnjuqxc-x9RoWs4uJcIvAiEAzRq5gofAStgX2zfqKqWt4sjR4kGxA1gwgocuoGHTuI4%3D&alr=yes&cpn=db66zd9t3gOUNeF3&cver=2.20190704&range=131362-185462&rn=6&rbuf=6824 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.googleapis.com/css?family=Roboto+Mono:400,700 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/api/stats/ads?ver=2&ns=1&event=2&device=1&content_v=gmRTQfLrbMY&el=detailpage&ei=w8IkXd-_HpCM1AamyIfYDw&devicever=2.20190704&asr=CgA&bti=9477942&format=2_3&break_type=1&conn=0&cpn=db66zd9t3gOUNeF3&lact=1205&m_pos=0&mt=375&p_h=360&p_w=640&rwt=[RWT]&sdkv=h.3.0.0&slot_pos=0&vis=0&vol=100&wt=1562690242440&ad_cpn=[AD_CPN]&ad_mt=0&abv=45 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxK.woff2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/id HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc4.woff2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.google.co.in/pagead/lvz?req_ts=1562690243&evtid=ADszL7NfiVwhqB3RwfJrp5oIsUHOqLae6IzB34rhSVNr5c-pZmfOh_qhNHGs7olG0XXlFV607MrnLDy0u5R0rSKpaqsVNzBjfA&pg=watch&sigh=ADRnf4aFPYDJUw9QLIU2H9JqmTWUJInALA HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.google.com/pagead/lvz?req_ts=1562690243&evtid=ADszL7PYctzOQLJFe-95iV_YMu63jEcq6Rl_GmFRfxz5nlffPayUyWiRsuXiBrVsru80x9HNobXsJ5hMWUOQsEQccrUF8ecynw&pg=watch&sigh=ADRnf4ZkqgHuLZ7Z4rXSFMsKmOh2nZNe_w HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/ads?lact=-1&ytdevicever=ytdevicever_2.20190704&client=ca-pub-6219811747049371&correlator=1919468216780289435&ad_block=3&host=ca-yt-host-pub-0196071646901426&loeid=23794043,23812484,23779398,23815366,9471239,9405961,23761674,23823671,23802811,23806435,23806876,23825270,23808951,23822875,23823430,23733598,9466591,9477942&num_ads=1&video_doc_id=yt_gmRTQfLrbMY&ad_type=text&channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2Bafv_user_id_5cu-LHzsXr6iBf2n9mswjg%2Bafv_user_yabaecip%2Bnon_lpw%2Bpw%2Byt_cid_28180531%2Byt_mpvid_dSvTJ6b4x5VN5VDH%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20190704&hl=en&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FgmRTQfLrbMY&output=js&ea=0&eae=2&adk=511001906&pyv=1&top=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgmRTQfLrbMY%26app%3Ddesktop&loc=EMPTY&dbp=ChZnTjNWZmRXamtTQV9HWDFGUXRvWW9nEAEgASgAOAI&isw=0&ish=0&yt_pt=APb3F28GDbKMT6N8k8Qa8ysRr02AOZZdZ3BrbYmdaxCarnHc6HAFIJ68IhpQYWLVB62uQIK-r2MCP2myu8LFCJ23dtCyJl46E2YhOkBaoNWcKFgMuoL1yp1nWYaG-Cofg6L3dIzXpUqYgKyTKUMt2M684E0dCBjeZ_DZ605a3TZ_ETV-_seHmJMCBu2jaHxJ9wjaI8P4Q3eosWud0wcV&pucrd=APb3F29JhqUTNuJ8CX7C_pI0d9NTB-tBAirYcs80FgS0Qme_8qeOII2utPYpE52c09muviFo5QX2VD1V-foY&dt=1562690242203&flash=0&frm=0&u_tz=330&u_his=2&u_java=false&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=576&biw=1034&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&wgl=true&dff=times%20new%20roman&dfs=16&ppjl=u&rsz=%7C%7Cn%7C&dssz=39&icsg=268374015&mdo=0&mso=0&iag=0&lact=1717 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/29iVnf5ja5c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLApZ21P0HJ6OuylhFIe_SzkwdyohQ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/gIbfYsQfNWs/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCW3HV1Wz6Cu42QaFJhGH0kenKXvA HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://yt3.ggpht.com/a/AGF-l7_aKRg9Tjgn3NqFONuUHj2GF8Fte5yd1RJGxg=s48-mo-c-c0xffffffff-rj-k-no HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/manifest.json HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/YLO7tCdBVrA/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDnTiv1hjV2XUmwKuLleqSifyXfrA HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/Orn-NP1lQuQ/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLB_-GOUk3b4kEcaZ4YNLGY_-suH-g HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/RIJA6lyKhq8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLDK9Dpkp3v76uwUe1hr2nAthnkZrg HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/b0vPzYhxy9c/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBkGs-WGlReFZ6PA41-7RlM0a5liA HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/c_RwIbNY5-I/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLC4h6hSSIpTt6N3grCt1krFaOh09A HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/t5jQhxREJ64/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCUV2zacA21x1LotVhuvgiJpqO-vw HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.google.com/js/bg/y67i03qV591uFa1-ewbQmYty8fjVTgvN--a2jo-qXJY.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://static.doubleclick.net/instream/ad_status.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://s.ytimg.com/yts/htmlbin/desktop_polymer_sel_auto_svg_watch_deferred_v2-vflQKsGEl.html HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/csi_204?v=2&s=youtube&action=watch&yt_sts=n&docid=gmRTQfLrbMY&ei=w8IkXd-_HpCM1AamyIfYDw&cpn=db66zd9t3gOUNeF3&fmt=243&cmt=0.007&yt_pvis=1&yt_pt=html5&st=747&yt_lt=cold&icrc=492&icrt=246.79541015625&pc=1&yt_ad=1&GetPlayer_rid=0xbd8ca92ca6b8e09f&c=WEB&cver=2.20190704&yt_li=0&GetWatchNext_rid=0xbd8ca92ca6b8e09f&is_nav=1&csn=w8IkXd-_HpCM1AamyIfYDw&p=h2&t=tcp&yt_vis=1&psc=1&d_vpni=6&d_vpnfi=6&d_vpct=1562690243683.12&rt=lpcs.279,lpcf.281,pe.730,csl.730,bs.742,bc.755,cfg.866,fs.925,qoes.969,ai.1039,a_bid_s.1116,pbr.1125,nc_pj.1153,gv.1099,rsbe_dph.1264,a_bid_f.1510,fvb.1204,rsae_dph.1561,rsbe_dpj.1561,plev.1568,ada.1252,vda.1444,vri.1095,vdns.1095,vreq.1103,vrc.1287,ari.1097,adns.1097,areq.1103,avb.1162,arc.1210,pbs.1658,rses_dpj.1835,rsef_dpj.2044,rsae_dpj.2044,ac.2045,apr.2045,cr_s.2056,gcc.2085,pdc.2085,pdr.2095,l2s.2120,pr.2351,cr_ic.2414,apa_b.2526,apa_a.2527,adl.2548,nd.2576,lps.2581,srt.211,fpt.761,nreqs.101,nress.211,nrese.941,ntcps.5,ntcpe.100,nstcps.11,nw.2685,pdl.2685,pda.2694,pbu.2728,bcp.2747,cmi.2759,dl.2808,cpt.2812,vpl.3111,aft.1658,ps.3325 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/generate_204?hdwRvg HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://adservice.google.co.in/adsid/integrator.js?domain=www.youtube.com HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://adservice.google.com/adsid/integrator.js?domain=www.youtube.com HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019070101.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://pagead2.googlesyndication.com/pagead/show_companion_ad.js HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=749603272&loeid=23794043%2C23812484%2C23779398%2C23815366%2C9471239%2C9405961%2C23761674%2C23823671%2C23802811%2C23806435%2C23806876%2C23825270%2C23808951%2C23822875%2C23823430%2C23733598%2C9466591%2C9477942&guci=2.2.0.0.2.2.0.0&channel=0854550288%2BVertical_174%2BVertical_18%2BVertical_211%2BVertical_36%2BVertical_432%2BVertical_435%2BVertical_613%2Bafv_user_id_5cu-LHzsXr6iBf2n9mswjg%2Bafv_user_yabaecip%2Byt_cid_28180531%2Byt_mpvid_dSvTJ6b4x5VN5VDH%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20190704%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FgmRTQfLrbMY&ea=0&flash=0&host=ca-yt-host-pub-0196071646901426&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_gmRTQfLrbMY&wgl=1&dbp=ChZnTjNWZmRXamtTQV9HWDFGUXRvWW9nEAEgASgAOAI&lact=-1&yt_pt=APb3F28YWiE3imiKiTkdV4IwEWHCh2uv0PP9JWOwUwzjEWs1kwMSYrc8URR7XG0peZrNhpDpB5oOdwjp8p2XYl4hht0WdMJQm0fL8YCWD0-wko-tXuy7-fmekup7ZnE3xRzZEWudhby4IaNzx_tLBMJ8UFTQvyOfywOm9gFv3zZX97L99Q23jUKsf4xfSis6v9Szfii1BYOKWWYyp-Th&adsid=NT&dt=1562690244270&bdt=3670&idt=-M&shv=r20190626&cbv=r20110914&saldr=ca&abxe=1&correlator=2019554189574&frm=20&pv=2&ga_vid=825710298.1562690244&ga_sid=1562690244&ga_hid=151879409&ga_fc=0&iag=0&icsg=824569409535&dssz=45&mdo=0&mso=0&u_tz=330&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=688&ady=80&biw=1017&bih=576&scr_x=0&scr_y=0&oid=3&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgmRTQfLrbMY&rx=0&eae=2&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&rsz=%7C%7Cape%7C&abl=CA&pfx=0&alvm=none&fu=4112&bc=31&ifi=1&uci=a!1&fsb=1&dtd=32 HTTP/1.1
+HOST: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&adk=749603272&loeid=23794043%2C23812484%2C23779398%2C23815366%2C9471239%2C9405961%2C23761674%2C23823671%2C23802811%2C23806435%2C23806876%2C23825270%2C23808951%2C23822875%2C23823430%2C23733598%2C9466591%2C9477942&guci=2.2.0.0.2.2.0.0&channel=0854550288%2BVertical_174%2BVertical_18%2BVertical_211%2BVertical_36%2BVertical_432%2BVertical_435%2BVertical_613%2Bafv_user_id_5cu-LHzsXr6iBf2n9mswjg%2Bafv_user_yabaecip%2Byt_cid_28180531%2Byt_mpvid_dSvTJ6b4x5VN5VDH%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20190704%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2FgmRTQfLrbMY&ea=0&flash=0&host=ca-yt-host-pub-0196071646901426&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_gmRTQfLrbMY&wgl=1&dbp=ChZnTjNWZmRXamtTQV9HWDFGUXRvWW9nEAEgASgAOAI&lact=-1&yt_pt=APb3F28YWiE3imiKiTkdV4IwEWHCh2uv0PP9JWOwUwzjEWs1kwMSYrc8URR7XG0peZrNhpDpB5oOdwjp8p2XYl4hht0WdMJQm0fL8YCWD0-wko-tXuy7-fmekup7ZnE3xRzZEWudhby4IaNzx_tLBMJ8UFTQvyOfywOm9gFv3zZX97L99Q23jUKsf4xfSis6v9Szfii1BYOKWWYyp-Th&adsid=NT&dt=1562690244270&bdt=3670&idt=-M&shv=r20190626&cbv=r20110914&saldr=ca&abxe=1&correlator=2019554189574&frm=20&pv=2&ga_vid=825710298.1562690244&ga_sid=1562690244&ga_hid=151879409&ga_fc=0&iag=0&icsg=824569409535&dssz=45&mdo=0&mso=0&u_tz=330&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=688&ady=80&biw=1017&bih=576&scr_x=0&scr_y=0&oid=3&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgmRTQfLrbMY&rx=0&eae=2&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&rsz=%7C%7Cape%7C&abl=CA&pfx=0&alvm=none&fu=4112&bc=31&ifi=1&uci=a!1&fsb=1&dtd=32
+HEADERS: {'Referer': 'https://www.youtube.com/', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/an_webp/gIbfYsQfNWs/mqdefault_6s.webp?du=3000&sqp=CIuBk-kF&rs=AOn4CLDxVeiY7Qt7CPMX_wrwMT3pL2L5wQ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/an_webp/29iVnf5ja5c/mqdefault_6s.webp?du=3000&sqp=CPrzkukF&rs=AOn4CLCqLdkzd2YwG-uU2WFoiQNkELOZAw HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://r5---sn-i3b7kn7r.googlevideo.com/videogoodput?id=o-AAtZ4mFgARV7r-gmHooUf8loOkN4qSPauU5MSKPO99Dl&source=goodput&range=0-4999&expire=1562693843&ip=103.21.125.80&ms=pm&mm=35&pl=24&nh=IgpwcjA2LmhrZzAxKgs3Mi4xNC4xOTQuOQ&sparams=id,source,range,expire,ip,ms,mm,pl,nh&signature=422EF0C58CFD65E88B8D4084ACA1D4CBB1A44534.26D14C5B4178B584210D2EC0A976828A0423C6AD&key=cms1&cpn=db66zd9t3gOUNeF3 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://www.youtube.com/', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=db66zd9t3gOUNeF3&docid=gmRTQfLrbMY&ver=2&cmt=8.273&ei=w8IkXd-_HpCM1AamyIfYDw&fmt=243&fs=0&rt=9.003&of=gN3VfdWjkSA_GX1FQtoYog&euri&lact=2&cl=256480665&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190704&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=9.661&rtn=19&afmt=251&idpj=-2&ldpj=-22&rti=9&muted=0&st=0&et=8.273 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=db66zd9t3gOUNeF3&docid=gmRTQfLrbMY&ver=2&cmt=9.661&ei=w8IkXd-_HpCM1AamyIfYDw&fmt=243&fs=0&rt=10.372&of=gN3VfdWjkSA_GX1FQtoYog&euri&lact=136&cl=256480665&state=paused&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190704&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=9.661&afmt=251&idpj=-2&ldpj=-22&muted=0&st=8.273&et=9.661 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://i.ytimg.com/vi/29iVnf5ja5c/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBr-VEV7NnaddubrLRYjlY7_o3o_w HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Referer': 'https://www.youtube.com/watch?v=gmRTQfLrbMY', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
+GET https://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzI.woff2 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=gmRTQfLrbMY
+HEADERS: {'Origin': 'https://www.youtube.com', 'Referer': 'https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36'}
+
