@@ -1,0 +1,261 @@
+https://www.youtube.com/watch?v=1pfqIcSydgE&t
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://i.ytimg.com/generate_204
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/generate_204
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/generate_204?conn2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_watch_v2-vfleQTki6/desktop_polymer_sel_auto_svg_watch_v2.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/scheduler-vfl0nTPXR/scheduler.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/base.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/cssbin/player-vflhsavod/www-player-webp.css
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/cssbin/www-main-desktop-player-skeleton-webp-vflUDgkBz.css
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/cssbin/www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26feature%3Dpassive%26action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&passive=true&uilel=3&hl=en&service=youtube
+HOST: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26feature%3Dpassive%26action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den&passive=true&uilel=3&hl=en&service=youtube
+
+https://www.youtube.com/yts/jsbin/spf-vflqCgDoF/spf.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/network-vfl3EpVxj/network.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/web-animations-next-lite.min-vflluX5aW/web-animations-next-lite.min.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/custom-elements-es5-adapter-vflsrwHZH/custom-elements-es5-adapter.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/webcomponents-sd-vflO3GT4v/webcomponents-sd.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/htmlbin/desktop_polymer_sel_auto_svg_watch_v2-vfl1dXyMl.html
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+GET data:image/png;base64,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 HTTP/1.1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+GET data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAJwCAYAAABI9AvEAAACkklEQVRIS1XHdxQIZBiFcTtCkmRHqSh7U1mpJMlK9t7Jpm2WUFnZK7PsbGWWUfYohOy9NZFVznNP5/vOff/4vfdJkOD/S8iPJCJFYicJKZIGkrEi95AiuZOCFPc6KUmRyklNivsCaViR+0mR1nmAFOmcB0mR3nmIFBmcjKTIFMjMimQhRVYnGykedrKTIofzCCkeDeRkRR4jxePOE6TI5eQmxZPOU6TIE8jLiuQjRX6nACkKOoVIUdgpQoqigWKsSHFSlHBKkqKU8zQpnnGeJUXpQBlWpCwpyjnlSfGcU4EUzzsvkOJFpyIpXgpUYkVeJkVl5xVSVHFeJUVVpxopqgdqsCI1SfGaU4sUrzu1SVHHqUuKeoH6rEgDUjR0GpGisdOEFE2dZqRoHmjBirQkRSunNSnaOG1J8YbTjhRvOu1J0SHQkRXpRIrOThdSdHW6kaK78xYp3g68w4q8S4r3nPdJ8YHTgxQ9nV6k6B3ow4r0JcWHzkek6Od8TIr+zgBSDAx8wop8SorPnEGkGOwMIcVQZxgpPg8MZ0VGkGKkM4oUo50xpBjrjCPFeGcCKSYGvmBFJpFisjOFFFOdaaSY7nxJiq8CM1iRmaSY5cwmxRxnLinmOV+TYn5gASuykBSLnMWkWOIsJcUy5xtSfBtYzoqsIMVKZxUpVjtrSPGd8z0p1jrrSLE+sIEV+YEUPzobSbHJ2UyKLc5WUmwLbGdFdpBip7OLFD85P5Nit7OHFHsDv7Ai+0ix3zlAil+dg6Q45BwmxZHAUVbkGCmOOydIcdI5RYrTzhlSnA2cY0XOk+KCc5EUl5zLpLji/EaK350/SPFn4C9W5G9SXHWukeK68w8pbjg3SXErcJsVuUOKf53/7gIPXjbYDO78kgAAAABJRU5ErkJggg== HTTP/1.1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+GET data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADGCAYAAAAT+OqFAAAAdklEQVQoz42QQQ7AIAgEF/T/D+kbq/RWAlnQyyazA4aoAB4FsBSA/bFjuF1EOL7VbrIrBuusmrt4ZZORfb6ehbWdnRHEIiITaEUKa5EJqUakRSaEYBJSCY2dEstQY7AuxahwXFrvZmWl2rh4JZ07z9dLtesfNj5q0FU3A5ObbwAAAABJRU5ErkJggg== HTTP/1.1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=0-66050&rn=1&rbuf=0
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=0-65951&rn=2&rbuf=0
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/captions.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/endscreen.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/annotations_module.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/remote.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/yts/jsbin/player_ias-vflK6rDhN/en_US/miniplayer.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://googleads.g.doubleclick.net/pagead/id
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=0-66050&req_id=2b17587be9da759&rn=3&rbuf=0
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+GET chrome-extension://invalid/ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://googleads.g.doubleclick.net/pagead/id?slf_rd=1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://googleads.g.doubleclick.net/pagead/id?slf_rd=1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+GET chrome-extension://invalid/ HTTP/1.1
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/get_midroll_info?ei=Be0sXfulBMS21AbK7qeYDA&m_pos=0&token=AFjjc2O1IAMItGGq04NpBvVCr-wqggCwpiKwLJGDNlS1LHxIQiS9kmUwAx_REW3DAQpjgUbNYrqC-pqjen3ojEOL5OuKumL-ELENcxE5k9mtZdRCNDQNzeCv-D_d83dl5c5hNXWaXbQzBkQehAw5WSQu8eFfeeVf7HMJngnX5-FjL7AE_MlxiO4m9dpRGhqTtdeMpK5e6I6DQ2AFDDGezJUrHToyPNsNc0w39kyKuLkaLxjPdySplJ8SBomFeMM23N1P6bIfidvCvafVQehW79AKuOF8dEH7wfUK2I-GxHOPhhi5wowmwdIFQroPbrtJ4_Q80yTIW1qc&index=0&cpn=Iqwyi_7hjOSQvIAM&lact=1010&vis=0&ad_block=1&tsla=0&bid=ANyPxKpfgGicwyI18Z7jXJouzvCaXIgJfUvCybWoSg3uQp1dXWDkHUe0QsJSSA1lIhRzvVt_ZqRSocZMLCetesZXNrk1fPg71g&dt=1563225349599&flash=0&frm=0&ca_type=image&u_tz=330&u_his=2&u_java=false&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&p_w=640&p_h=360&c=WEB&cver=2.20190711&abv=45
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.googleapis.com/css?family=Roboto+Mono:400,700
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=66051-131586&rn=4&rbuf=3928
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=65952-131487&rn=5&rbuf=4436
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/manifest.json
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=131488-274891&rn=6&rbuf=8872
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxK.woff2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://s.ytimg.com/yts/img/favicon_32-vflOogEID.png
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=131587-295438&rn=7&rbuf=9193
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/api/stats/playback?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=0.025&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=1.794&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=1883&cl=257652704&mos=0&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&fexp=23728137%2C23744176%2C23748146%2C23751747%2C23751767%2C23788847%2C23788876%2C23793834%2C23804281%2C23805410%2C23810048%2C23810565%2C23811378%2C23811589%2C23813548%2C23814136%2C23814211%2C23816462%2C23816777%2C23818122%2C23818481%2C23818585%2C23818787%2C23818787%2C23819245%2C23820285%2C23820288%2C23820466%2C23820769%2C23821688%2C23822270%2C23822399%2C23822934%2C23823671%2C23823834%2C23824107%2C23824468%2C23824807%2C23826023%2C23826621%2C23827008%2C23827174%2C23827191%2C23827925%2C9440171%2C9449243%2C9471235&rtn=8&afmt=251
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://www.youtube.com/ptracking?html5=1&video_id=1pfqIcSydgE&cpn=Iqwyi_7hjOSQvIAM&ei=Be0sXfulBMS21AbK7qeYDA&ptk=youtube_single&oid=bxBLDScgVJeTgZDp-G3zzQ&ptchn=UHW94eEFW7hkUMVaZz4eDg&pltype=content
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://googleads.g.doubleclick.net/pagead/id
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t
+
+https://fonts.gstatic.com/s/roboto/v19/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/an/UHW94eEFW7hkUMVaZz4eDg/featured_channel.jpg?v=5111775c
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.google.co.in/pagead/lvz?req_ts=1563225349&evtid=ADszL7PsSEadaSWh8ENhP4BiFuxCnOO9ejXQDneZhhIQpdfMve_mQj7k5facTMFZxRp8HlEnBqN2OA_ivlDx4b2SlVQEeVBP-Q&pg=watch&sigh=ADRnf4Y7WfjDdSEWX0vexivGt0ouQOtSMw
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.google.com/pagead/lvz?req_ts=1563225349&evtid=ADszL7OdQcGQ4lTL_sKYJPXs3Ac6djxHsvOz5h0pGkSA5RlKOC04Ze0TGwqxLs7_zFbHvpzoqTXGnVP-dVYn1gfHf2IqFV5iWQ&pg=watch&sigh=ADRnf4aN1CdqMJQsJpdzN3sNJIqGjHXfeg
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://googleads.g.doubleclick.net/pagead/ads?lact=-1&ytdevicever=ytdevicever_2.20190711&client=ca-pub-6219811747049371&correlator=8295271811883135269&ad_block=3&eid=257484853&host=ca-yt-host-pub-3321018704031084&loeid=23820288,23810048,9471235,23810565,23728137,23817027,23811589,23818787,23824807,9440171,23820466,23823671,23802811,23826621,23822270,23822399,23827008,23814211,23816777,23824468,23827925,23823834,23733598,23820769,23826023,23824107,23819245,23818481,23827191,23814136,23820285,9477942&num_ads=1&video_doc_id=yt_1pfqIcSydgE&ad_type=text&channel=PyvWatchInRelated%2BPyvWatchNoAdX%2BPyvYTWatch%2Bafv_user_id_UHW94eEFW7hkUMVaZz4eDg%2Bafv_user_minutephysics%2Bnon_lpw%2Bpw%2Byt_cid_762927%2Byt_mpvid_sWvAKzZzNYLmYobs%2Byt_no_ap%2Bytdevice_1%2Bytdevicever_2.20190711&hl=en&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F1pfqIcSydgE&output=js&ea=0&eae=2&adk=511001906&pyv=1&top=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1pfqIcSydgE%26app%3Ddesktop&loc=EMPTY&dbp=ChZqdmdHNWZNa2ZFakFQNkxUd0o3LW13EAEgASgAOAI&isw=0&ish=0&yt_pt=APb3F28jYeMuqiGgrge3SnpMKsDwvqqxpON02ft-gx7UCMQLBjhGZV8IULasls18E9iEPLt6c9H4f4CnpC0tQv1KCN3vONiMZmYrQwkyidwSvlMmkb8suTr5BIHL3bd3Jawn3lB9S6HKXlM55wHPw7kFMBtEM0KihOFZ3UH-oZK43Rn7YV7LLRxEWw-5bAQyd1cnL5WGNtiqaEhhy0dXeJaFm9rxEDVU8hhtvMqQS7nIkrmjY5Ba5CU4tt9XgWA&pucrd=APb3F2-NApU0FBGKkGek8tAC7vJU12hguStvy2WMpSiVHDNgzWTBMpxeVpOS1rXcvUgjgauUp2qITduQnXLj&dt=1563225351342&flash=0&frm=0&u_tz=330&u_his=2&u_java=false&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&bc=31&bih=576&biw=1017&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&wgl=true&dff=times%20new%20roman&dfs=16&ppjl=u&rsz=%7C%7Cn%7C&dssz=40&icsg=1073680383&mdo=0&mso=0&iag=0&lact=2989
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&w=300&loeid=23820288%2C23810048%2C9471235%2C23810565%2C23728137%2C23817027%2C23811589%2C23818787%2C23824807%2C9440171%2C23820466%2C23823671%2C23802811%2C23826621%2C23822270%2C23822399%2C23827008%2C23814211%2C23816777%2C23824468%2C23827925%2C23823834%2C23733598%2C23820769%2C23826023%2C23824107%2C23819245%2C23818481%2C23827191%2C23814136%2C23820285%2C9477942&channel=0854550287%2BVertical_174%2BVertical_444%2Bafc_on_page%2Bafv_user_id_UHW94eEFW7hkUMVaZz4eDg%2Bafv_user_minutephysics%2Byt_cid_762927%2Byt_gp%2Byt_mpvid_sWvAKzZzNYLmYobs%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20190711%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F1pfqIcSydgE&flash=0&host=ca-yt-host-pub-3321018704031084&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_1pfqIcSydgE&wgl=1&dbp=ChZqdmdHNWZNa2ZFakFQNkxUd0o3LW13EAEgASgAOAI&lact=1010&yt_pt=APb3F2-WHe3M-TaEb19Z4_KcV2308empVDlEukxG9O59X_qbLUICLHxWQmRaCYA9pfaSxRvDHfAoaMoQ6iWjPZeJVzatCUSD3brVNyZVyipHLFE4WMMbgelkj5ipJxIq1WtvDWJhiU8JBf4DyDWFgZ74Kz2kIZehcQKXo2PsZMAbMxeHZXFm9gGLOFsbYxoa0F6gX-t7ILNsvajyTirl&dt=1563225351342&bdt=2343&idt=-M&shv=r20100101&cbv=r20100101&saldr=yt&abxe=1&correlator=5091858697210&frm=20&pv=2&ga_vid=515073659.1563225353&ga_sid=1563225353&ga_hid=892821982&ga_fc=0&iag=0&icsg=1073680383&dssz=40&mdo=0&mso=0&u_tz=330&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&biw=1017&bih=576&scr_x=0&scr_y=0&eid=257484853&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1pfqIcSydgE%26t%3D&rx=0&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&pfx=0&alvm=none&fu=4160&bc=31&polymer=1
+HOST: https://googleads.g.doubleclick.net/pagead/ads?ad_block=2&client=ca-pub-6219811747049371&output=html&h=250&w=300&loeid=23820288%2C23810048%2C9471235%2C23810565%2C23728137%2C23817027%2C23811589%2C23818787%2C23824807%2C9440171%2C23820466%2C23823671%2C23802811%2C23826621%2C23822270%2C23822399%2C23827008%2C23814211%2C23816777%2C23824468%2C23827925%2C23823834%2C23733598%2C23820769%2C23826023%2C23824107%2C23819245%2C23818481%2C23827191%2C23814136%2C23820285%2C9477942&channel=0854550287%2BVertical_174%2BVertical_444%2Bafc_on_page%2Bafv_user_id_UHW94eEFW7hkUMVaZz4eDg%2Bafv_user_minutephysics%2Byt_cid_762927%2Byt_gp%2Byt_mpvid_sWvAKzZzNYLmYobs%2Byt_no_ap%2Byt_no_wa%2Bytdevice_1%2Bytdevicever_2.20190711%2Bytel_detailpage%2Bytps_default&ad_type=image&format=300x250_as&url=http%3A%2F%2Fwww.youtube.com%2Fvideo%2F1pfqIcSydgE&flash=0&host=ca-yt-host-pub-3321018704031084&alternate_ad_url=https%3A%2F%2Fwww.youtube.com%2Fad_frame%3Faction%3Dauto-collapse-kevlar-companion&hl=en&video_doc_id=yt_1pfqIcSydgE&wgl=1&dbp=ChZqdmdHNWZNa2ZFakFQNkxUd0o3LW13EAEgASgAOAI&lact=1010&yt_pt=APb3F2-WHe3M-TaEb19Z4_KcV2308empVDlEukxG9O59X_qbLUICLHxWQmRaCYA9pfaSxRvDHfAoaMoQ6iWjPZeJVzatCUSD3brVNyZVyipHLFE4WMMbgelkj5ipJxIq1WtvDWJhiU8JBf4DyDWFgZ74Kz2kIZehcQKXo2PsZMAbMxeHZXFm9gGLOFsbYxoa0F6gX-t7ILNsvajyTirl&dt=1563225351342&bdt=2343&idt=-M&shv=r20100101&cbv=r20100101&saldr=yt&abxe=1&correlator=5091858697210&frm=20&pv=2&ga_vid=515073659.1563225353&ga_sid=1563225353&ga_hid=892821982&ga_fc=0&iag=0&icsg=1073680383&dssz=40&mdo=0&mso=0&u_tz=330&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&biw=1017&bih=576&scr_x=0&scr_y=0&eid=257484853&loc=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1pfqIcSydgE%26t%3D&rx=0&brdim=10%2C10%2C10%2C10%2C1366%2C0%2C1050%2C708%2C1034%2C576&vis=1&pfx=0&alvm=none&fu=4160&bc=31&polymer=1
+
+https://i.ytimg.com/vi/Lo8NmoDL9T8/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCyl-UPiA4cY3h_jfn0lYHaF6U9RQ
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://yt3.ggpht.com/a/AGF-l7_90_OopgqRNxh6zi7bhcOT8SHeQLbJDR1ZFQ=s48-mo-c-c0xffffffff-rj-k-no
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/4fuHzC9aTik/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCfvRcb40kYpAiJ8MVr8NMOEC_t9g
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/brmjWYQi2UM/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCJr7NnqPXHZGPPcoqn5Fc0N_FKNA
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/KI-sGVwC4yE/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAd_yI2SxLRqZTclMR_rDxqHkKX-A
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/p_o4aY7xkXg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA8izmYbZGgf7FkExvEQbkw3gUxog
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/OM9KepKsg6U/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLCwycOjJ-0Tl0T1dh0yIRI7vAenRA
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://s.ytimg.com/yts/htmlbin/desktop_polymer_sel_auto_svg_watch_deferred_v2-vflC9_a9r.html
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.google.com/js/bg/PMnyUzqskOmUnxCmeXopbP4HieOl-4c68Vd5yvijyTc.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://static.doubleclick.net/instream/ad_status.js
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/csi_204?v=2&s=youtube&action=watch&yt_sts=n&st=1295&docid=1pfqIcSydgE&ei=Be0sXfulBMS21AbK7qeYDA&cpn=Iqwyi_7hjOSQvIAM&fmt=243&cmt=0.025&yt_pvis=1&yt_pt=html5&yt_lt=cold&icrc=496&icrt=328.2490234375&pc=1&yt_ad=1&GetPlayer_rid=0x4eb001170c39fb91&c=WEB&cver=2.20190711&yt_li=0&GetWatchNext_rid=0x4eb001170c39fb91&is_nav=1&csn=Be0sXfulBMS21AbK7qeYDA&p=h2&t=tcp&yt_vis=1&psc=1&d_vpni=3&d_vpnfi=3&d_vpct=1563225354618.955&rt=lpcs.387,lpcf.388,pe.1029,csl.1029,bs.1044,bc.1051,cfg.1507,fs.1571,qoes.1612,ai.1710,nc_pj.1729,a_bid_s.1926,rsbe_dph.2066,rsae_dph.2400,rsbe_dpj.2401,a_bid_f.2533,rses_dpj.2693,rsef_dpj.3051,rsae_dpj.3055,ac.3056,apr.3057,pbr.3084,gcc.3089,pdc.3089,pdr.3107,gv.1882,fvb.2252,plev.3231,vrr.1962,vda.3158,ada.3158,vri.1965,vdns.2030,vreq.2196,vrc.2318,ari.1879,adns.1879,areq.1881,avb.2099,arc.2238,pbs.3384,cr_s.3424,l2s.3476,dl.3716,pr.3795,cr_ic.3871,np0.4101,apa_b.4143,apa_a.4143,adl.4174,nd.4195,lps.4208,srt.346,fpt.1060,nreqs.179,nress.346,nrese.1616,ndnss.11,ndnse.29,ntcps.29,ntcpe.177,nstcps.68,nw.4335,pdl.4341,pda.4354,pbu.4430,bcp.4448,cpt.4624,cmi.4679,vpl.5104,aft.3384,ps.5979
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/generate_204?-W48FQ
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=274892-449250&rn=8&rbuf=14130
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/ads?ver=2&ns=1&event=2&device=1&content_v=1pfqIcSydgE&el=detailpage&ei=Be0sXfulBMS21AbK7qeYDA&devicever=2.20190711&asr=CgA&bti=9477942&format=2_3&break_type=1&conn=0&cpn=Iqwyi_7hjOSQvIAM&lact=6354&m_pos=0&mt=4514&p_h=360&p_w=640&rwt=[RWT]&sdkv=h.3.0.0&slot_pos=0&vis=0&vol=100&wt=1563225356519&ad_cpn=[AD_CPN]&ad_mt=0&abv=45
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=295439-602767&rn=9&rbuf=14631
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=6.251&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=8.003&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=8091&cl=257652704&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&rtn=18&afmt=251&idpj=-4&ldpj=-4&rti=8&muted=0&st=0&et=6.251
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/an_webp/4fuHzC9aTik/mqdefault_6s.webp?du=3000&sqp=CMiys-kF&rs=AOn4CLBjHzFJ_N4zEUnASj8CI2pCDsG_9Q
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/ads?ver=2&ns=1&event=1&device=1&content_v=1pfqIcSydgE&el=detailpage&ei=Be0sXfulBMS21AbK7qeYDA&devicever=2.20190711&bti=9477942&break_type=2&conn=0&cpn=Iqwyi_7hjOSQvIAM&lact=476&m_pos=10&mt=10002&p_h=360&p_w=640&rwt=[RWT]&sdkv=h.3.0.0&slot_pos=0&vis=0&vol=100&wt=1563225362010&abv=45
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=449251-758314&rn=10&rbuf=19884
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=16.249&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=18.001&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=5720&cl=257652704&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&rtn=28&afmt=251&idpj=-4&ldpj=-4&rti=18&muted=0&st=6.251&et=16.249
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=602768-1164612&rn=11&rbuf=26131
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=758315-1224415&rn=12&rbuf=29632
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=26.249&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=28&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=15720&cl=257652704&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&rtn=68&afmt=251&idpj=-4&ldpj=-4&rti=28&muted=0&st=16.249&et=26.249
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-npupj5cax-jj0l.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-npupj5cax-jj0l%2Csn-cvh76nes&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=861250&mime=audio%2Fwebm&gir=yes&clen=1359543&dur=88.361&lmt=1542160550251834&mt=1563225223&fvip=3&keepalive=yes&c=WEB&txp=5411222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgfNXRSclOjH5yMX6fpNCPLCVqZwzD_0FTKJ_mk1kV2OsCIDYZ1YBMfWxjv94n6K8J8IZDrIuO1lp84XJW9Vrl3K43&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMSjfbTfHdDaZotejD6hK-BaenhblFBpUcaGGiYVJy7DAiBnkZpguCsGh4YjihDx3KNJnYZpiaBj1CJ3CvF8GXyDUA%3D%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&range=1224416-1359542&rn=13&rbuf=44384
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://r3---sn-cvh76nes.googlevideo.com/videoplayback?expire=1563246950&ei=Be0sXfulBMS21AbK7qeYDA&ip=202.142.80.103&id=o-AAbGOTwwyS2O5jvuqZfbTKz9dSJ-IjVuIgSEKQ9NC2Hp&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mime=video%2Fwebm&gir=yes&clen=1185827&dur=88.333&lmt=1542159888797421&fvip=3&keepalive=yes&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIwcxn4-c_EOMyrLipmi2DHu-Kopb8CicXrDJUy2GWsVAiEA-gfgrWBzFx7bi2JdFYYfaLytaj3PU5dhPvlAikZZUK0%3D&alr=yes&cpn=Iqwyi_7hjOSQvIAM&cver=2.20190711&redirect_counter=1&cm2rm=sn-npupj5cax-jj0l7s&cms_redirect=yes&mm=29&mn=sn-cvh76nes&ms=rdu&mt=1563225276&mv=m&mvi=2&pl=24&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgflFHptQGTX29zsRM_DHyFlu74px4U1AmRc_88IdAdO0CIHUvZhqQ9wdoQJnxXQ3pX__x2BEKzokyiXqK_VwYtmAv&range=1164613-1185826&rn=14&rbuf=47716
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=66.252&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=68.003&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=55722&cl=257652704&state=playing&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&rtn=108&afmt=251&idpj=-4&ldpj=-4&rti=68&muted=0&st=26.249&et=66.252
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/get_midroll_info?ei=Be0sXfulBMS21AbK7qeYDA&m_pos=-1&token=AFjjc2M2k1fR2BsYeKh-85Yay-M0lNjNaIUXwrI7tTvAOawrOu4ezcvImyPfBc5qdvYhtGEMoT-8dhTlCjjeQlvRqkC_7blArl6OGvM70ejd5TAfO97uQJ2pxbWSWwRsvLxvkjGOr8YrjcOVKjykCrNCkDqwj9j7N9CnkOT6zWCo5S5JW2VHvTKNwD4dDtN5qReh5uVw0Z1H6AmltsarL10NsK9jOLziCiHFGdQXKq8V-EZVrC7X7wnv8bWZUpZyLTnmHvVinBSpIUmrmRLEiZx9F6NJD0-RvEcxdlk4s9dTfM1dX8WJXFIoUBpSs7Uq9sMwVMfYdvA3&index=1&cpn=Iqwyi_7hjOSQvIAM&lact=67478&vis=0&ad_block=3&tsla=0&bid=ANyPxKpfgGicwyI18Z7jXJouzvCaXIgJfUvCybWoSg3uQp1dXWDkHUe0QsJSSA1lIhRzvVt_ZqRSocZMLCetesZXNrk1fPg71g&dt=1563225349599&flash=0&frm=0&ca_type=image&u_tz=330&u_his=2&u_java=false&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&p_w=640&p_h=360&c=WEB&cver=2.20190711&abv=45
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=Iqwyi_7hjOSQvIAM&docid=1pfqIcSydgE&ver=2&cmt=88.361&ei=Be0sXfulBMS21AbK7qeYDA&fmt=243&fs=0&rt=90.111&of=jvgG5fMkfEjAP6LTwJ7-mw&euri&lact=77830&cl=257652704&state=paused&vm=CAEQARgE&volume=100&c=WEB&cver=2.20190711&cplayer=UNIPLAYER&cbr=Chrome&cbrver=75.0.3770.100&cos=Windows&cosver=10.0&hl=en_US&cr=IN&len=88.361&afmt=251&idpj=-4&ldpj=-4&muted=0&st=66.252&et=88.361
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://www.youtube.com/api/stats/ads?ver=2&ns=1&event=1&device=1&content_v=1pfqIcSydgE&el=detailpage&ei=Be0sXfulBMS21AbK7qeYDA&devicever=2.20190711&bti=9477942&break_type=3&conn=0&cpn=Iqwyi_7hjOSQvIAM&lact=77843&m_pos=0&mt=88361&p_h=360&p_w=640&rwt=[RWT]&sdkv=h.3.0.0&slot_pos=0&vis=0&vol=100&wt=1563225440377&abv=45
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://i.ytimg.com/vi/Lo8NmoDL9T8/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLD-MJjlkHyUJ8Ww2CNx-A09AFRqBw
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
+https://fonts.gstatic.com/s/roboto/v19/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+HOST: https://www.youtube.com/watch?v=1pfqIcSydgE&t=
+
